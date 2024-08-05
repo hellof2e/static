@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## [v0.2.0](https://github.com/hellof2e/static/releases/tag/v0.2.0) - 2024-08-05 03:23:15
+
+请点击查看 [更新日志](https://github.com/hellof2e/quark-doc-header/blob/main/CHANGELOG.md).
+
+### Feature
+
+- general:
+  - release quark static ([590da12](https://github.com/hellof2e/static/commit/590da1250ee82d4fa6fd00c123662f7e6421d4d3))
+  - release quark static ([0c8f3ef](https://github.com/hellof2e/static/commit/0c8f3ef502ab1f9e907b0937539ef7bf05999f5f))
+  - release quark static ([52c7b29](https://github.com/hellof2e/static/commit/52c7b29ab471c50a20e06a820606e6015cac6536))
+  - release quark static ([8abacc0](https://github.com/hellof2e/static/commit/8abacc0e7fc01056d79904a8a38703b2c85832d5))
+
+## [v0.1.5](https://github.com/hellof2e/static/releases/tag/v0.1.5) - 2024-08-05 03:15:53
+
+请点击查看 [更新日志](https://github.com/hellof2e/quark-doc-header/blob/main/CHANGELOG.md).
+
 ## [v0.1.4](https://github.com/hellof2e/static/releases/tag/v0.1.4) - 2024-08-05 03:15:15
 
 请点击查看 [更新日志](https://github.com/hellof2e/quark-doc-header/blob/main/CHANGELOG.md).
