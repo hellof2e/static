@@ -11,11 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2 # 先检出代码
 
-      # - name: 初始化node环境
-      #   uses: actions/setup-node@v1
-      #   with:
-      #     node-version: ${{ matrix.node-version }}
-      #     registry-url: https://registry.npmjs.org/ # 如果不配置将影响publish
+      - name: 初始化node环境
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+          registry-url: https://registry.npmjs.org/ # 如果不配置将影响publish
 
       # 修改package.json版本号, 修改后提交到仓库
       # - name: Bump version and push to GitHub
