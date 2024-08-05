@@ -1,11 +1,11 @@
-# static
+# Static
 Host for static files
 
 
-https://raw.githubusercontent.com/hellof2e/static/main/quark-logo.png
-https://raw.githubusercontent.com/hellof2e/static/main/xxxx
+<!-- https://raw.githubusercontent.com/hellof2e/static/main/quark-logo.png
+https://raw.githubusercontent.com/hellof2e/static/main/xxxx -->
 
-
+# How to use
 ## Global CDN
 
 https://unpkg.com/quark-static@0.3.1/theme.css
